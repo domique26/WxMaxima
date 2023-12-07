@@ -23,30 +23,37 @@ public class Funktion {
 		this.koeffizienten = koeffizienten;
 	}
 	
+	//
 	double funktionswertBerechnen(double x) {
 		return 0;
 	}
 	
+	//
 	Funktion ableitung() {
 		return null;
 	}
 	
+	//
 	Punkt[] berechneTiefpunkt() {
 		return null;
 	}
 	
+	//
 	Punkt[] berechneHochpunkt() {
 		return null;
 	}
 	
+	//
 	Punkt [] nullstellen() {
 		return null;
 	}
 	
+	//
 	boolean achsenSymetrie() {
 		return false;
 	}
 	
+	//
 	boolean punktSymetrie() {
 		return false;
 	}
